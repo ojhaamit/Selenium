@@ -1,4 +1,4 @@
-# About Swag Labs:
+# About SauceDemo (Swag Labs):
 SauceDemo is the demo website built by SauceLabs that allows users to practice UI automation.
 
 # Sauce Demo Test Automation in Selenium using Java:
