@@ -1,5 +1,5 @@
 # About SauceDemo (Swag Labs):
-SauceDemo is the demo website built by SauceLabs that allows users to practice UI automation.
+[SauceDemo](https://www.saucedemo.com/) is the demo website built by SauceLabs that allows users to practice UI automation.
 
 # Sauce Demo Test Automation in Selenium using Java:
 For automatation POM (Page Object Model) design pattern has been used on Maven build with TestNG framework. For reporting purpose, currently TestNG report has been used, credenitals and other items have been stored in config.properties file.
